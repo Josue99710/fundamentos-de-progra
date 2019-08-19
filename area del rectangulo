@@ -6,14 +6,14 @@ using namespace std;
 void main ()
 {
 	float altura,base,area=0;
-	cout<<"calcular el area del cuadrado"<<endl;
+	cout<<"calcular el area del rectangulo"<<endl;
 	cout<<"digite base"; cin>>base;
 	cout<<"digite altura"; cin>>altura;
 
 	
 	area = (base*altura);
 
-	cout<<"el area del cuadrado es:"<<area<<endl;
+	cout<<"el area del rectangulo es:"<<area<<endl;
 
 
 	getch();
